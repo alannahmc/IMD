@@ -1,0 +1,32 @@
+References:
+
+https://www.w3schools.com/bootstrap/default.asp
+
+
+
+Bootstrap features used:
+
+
+1)	BS Tables
+2)	BS images
+3)	BS Alerts
+4)	BS buttons
+5)	BS Glyphicons
+6)	BS Progress Bars
+7)	BS Dropdown
+8)	BS Navigation Bar
+9)	BS Forms (Horizontal) and Inputs
+10)	BS Carousel Plugin
+11)	BS Modal
+12)	BS Scroll spy
+13)	BS Affix 
+
+
+
+Bootstrap JS Ref
+1)	JS Modal
+2)	JS Button
+3)	JS Carousel 
+4)	JS Alert
+
+
